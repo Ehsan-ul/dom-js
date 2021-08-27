@@ -42,7 +42,7 @@ myStyle.style.color = '#ddd';
 myStyle.style.background = '#377dff';
 myStyle.style.padding = '20px';
 
-console.log(myStyle);
+// console.log(myStyle);
 
 // li dhora
 // let myLi = document.querySelector('ul li:last-child');
@@ -51,7 +51,7 @@ let myLi = document.querySelector('#myList li:nth-child(3)');
 myLi.style.background = 'brown';
 myLi.innerText = 'লিংকডইন';
 
-console.log(myLi);
+// console.log(myLi);
 
 // class dhora
 let classVal = document.querySelector('.title');
