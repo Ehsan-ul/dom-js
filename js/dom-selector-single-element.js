@@ -57,3 +57,4 @@ console.log(myLi);
 let classVal = document.querySelector('.title');
 classVal.style.background = '#ddd';
 classVal.style.padding = '20px'
+
