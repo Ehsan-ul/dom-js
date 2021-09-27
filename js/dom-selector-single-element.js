@@ -56,5 +56,4 @@ myLi.innerText = 'লিংকডইন';
 // class dhora
 let classVal = document.querySelector('.title');
 classVal.style.background = '#ddd';
-classVal.style.padding = '20px'
-
+classVal.style.padding = '20px';
